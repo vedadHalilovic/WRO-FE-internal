@@ -1,1 +1,11 @@
 # WRO-FE
+
+Our robot for this competition is made from Lego and uses the lego SPIKE brick and the Lego SPIKE motors. These motors power our steering system and they push our robot forward. Besides the Lego parts we also use an ESP-32 and we also use a ESP32-CAM which will be used to detect the different colored blocks the robot has to move around. We also have two ultrasonic sensors on the left and right side of the robot. These ultrasonic sensors are HC-SR04 sensors and their purpose is to detect whether or not the robot is close to a wall or a block. The robot weighs in at 300 grams and it uses about 7V of electricity to power everything. The robot makes minimal noise where only the lego motors make some noise. We built this Lego robot because our main robot that we built failed to function properly and we were short on time for a new one so we built this one which does a great job completing the objectives that were given to us as it can complete the first round of the challenge without a problem but we are still coding the second obstacle round. As for how it functions, the robot in the first round goes forward until it detects that there is empty space on either left or right side, and then it proceeds to turn to the side with the empty space and does so for 3 laps. As for the obstacle challenge we are still working on it as of now and we will document changes.
+this is how our robot looks like:
+<img width="1200" height="1600" alt="IMG_5314" src="https://github.com/user-attachments/assets/8f8d6fa8-e5d6-4ef5-9eb6-20245cf32d18" />
+<img width="1200" height="1600" alt="IMG_5310" src="https://github.com/user-attachments/assets/eb777c06-96e5-4652-bfaa-459a8ef358ac" />
+<img width="1200" height="1600" alt="IMG_5313" src="https://github.com/user-attachments/assets/07ce1a09-6fea-420a-b542-f0cd95294160" />
+<img width="1200" height="1600" alt="IMG_5309" src="https://github.com/user-attachments/assets/7f98828b-ada9-42ee-9918-49ed5f9f4274" />
+<img width="1200" height="1600" alt="IMG_5312" src="https://github.com/user-attachments/assets/ff54f279-ec6b-4644-bfe3-e1c9d9791076" />
+<img width="1200" height="1600" alt="IMG_5311" src="https://github.com/user-attachments/assets/39c9b8ea-abbc-40d1-8c0c-6834d714ac3c" />
+
